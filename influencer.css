@@ -1,0 +1,44 @@
+body{
+                /* border: 2px solid black; */
+                width: 1280px;
+                font-family: 'poppins'
+                
+}
+
+/* hero section style */
+
+.hero{
+                width: 582px;
+                height: 270px;
+}
+.hero-section{
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+}
+.camera-img{
+                /* border: 2px solid blue; */
+                width: 440px;
+                height: 414px;
+}
+.hero-title{
+                font-weight: 700px;
+                font-size: 3.25rem;
+                color: #3A3A3A;
+}
+.hero-description{
+                font-weight: 600px;
+                font-size: 1rem;
+                color: #3A3A3A;
+}
+.hero-btn{
+                background-color: #E02C6D;
+                width: 196px;
+                height: 44px;
+                font-weight: 700px;
+                font-size: 1rem;
+                color: #FFFFFF;
+                padding: 10px 24px;
+                border: none;
+                border-radius: 41px;
+}
